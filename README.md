@@ -79,9 +79,9 @@ Optimized for deployment on edge devices.
 ```bash
 pip install tensorflow scikit-learn pandas numpy matplotlib
 
-python phase1_simulation.py   # Generate dataset
-python phase2_lstm.py         # Train model
-python phase3_controller.py   # Run comparison
+python simulation.py   # Generate dataset
+python lstm.py         # Train model
+python controller.py   # Run comparison
 ```
 
 ---
