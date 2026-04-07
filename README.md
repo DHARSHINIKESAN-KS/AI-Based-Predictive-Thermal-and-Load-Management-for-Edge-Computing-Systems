@@ -1,4 +1,4 @@
-# AI-Based Predictive Thermal & Load Management for Edge Computing
+# AI-Based Predictive Thermal & Load Management for Edge Computing 
 
 ## Overview
 
